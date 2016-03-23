@@ -16,8 +16,17 @@
 -->
 
 <resources>
+    <!-- app palette -->
     <color name="primary">#2196F3</color>       //500
     <color name="primary_dark">#1976D2</color>  //700
     <color name="accent">#C2185B</color>        //A200
+
+    <!-- common -->
+    <color name="text_primary_dark">#de000000</color> <!-- 87% -->
+    <color name="text_secondary_dark">#8a000000</color> <!-- 54% -->
+    <color name="text_primary_light">#ffffffff</color>
+    <color name="text_secondary_light">#b3ffffff</color> <!-- 70% -->
+
+    <color name="text_link_highlight">#b303a9f4</color>
 
 </resources>

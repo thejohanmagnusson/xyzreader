@@ -1,3 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dd721e9245d1be455e049ef86cd4e6a9b7d20d50">
+        <dex dex="C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_74a155a6559ff307120ade7718476976d22f9e86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a14a23ae5a46e87087a483e883d2ad1358d84e3">
+        <dex dex="C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_eafe24311fc238226839dd3ba53d4f306da85cbd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3178295726631bb87b661b0becc3bd0bf2999033">
+        <dex dex="C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_bad65b6ef2f7402fdb71c3d3f452da247efbf0a3\classes.dex" />
+    </item>
+
+</items>

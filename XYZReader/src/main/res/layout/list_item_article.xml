@@ -25,7 +25,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="@dimen/card_title_size"
-            android:textColor="@android:color/white"
+            android:textColor="@color/text_primary_light"
             android:paddingLeft="@dimen/card_title_padding"
             android:paddingRight="@dimen/card_title_padding"
             android:paddingBottom="@dimen/card_title_padding"
