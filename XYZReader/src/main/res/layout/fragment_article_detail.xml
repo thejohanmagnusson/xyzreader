@@ -4,6 +4,29 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <TextView
+            android:id="@+id/article_body"
+            style="?android:attr/textAppearanceMedium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/detail_text_margin"
+            android:layout_marginLeft="@dimen/detail_text_margin"
+            android:layout_marginStart="@dimen/detail_text_margin"
+            android:layout_marginRight="@dimen/detail_text_margin"
+            android:layout_marginEnd="@dimen/detail_text_margin"
+            android:layout_marginBottom="@dimen/detail_text_margin"
+            android:textColor="@color/text_secondary_dark"
+            android:textColorLink="@color/text_link_highlight"
+            android:textSize="@dimen/detail_body_text_size"
+            />
+    </android.support.v4.widget.NestedScrollView>
+
     <android.support.design.widget.AppBarLayout
         android:id="@+id/app_bar_layout"
         android:layout_width="match_parent"
@@ -59,38 +82,13 @@
 
             <android.support.v7.widget.Toolbar
                 android:id="@+id/toolbar"
-                app:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+                android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
                 android:layout_width="match_parent"
                 android:layout_height="?actionBarSize"
                 android:elevation="4dp"
-                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
                 app:layout_collapseMode="pin" />
-
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
-
-    <android.support.v4.widget.NestedScrollView
-        android:id="@+id/scroll"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior">
-
-        <TextView
-            android:id="@+id/article_body"
-            style="?android:attr/textAppearanceMedium"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/detail_text_margin"
-            android:layout_marginLeft="@dimen/detail_text_margin"
-            android:layout_marginStart="@dimen/detail_text_margin"
-            android:layout_marginRight="@dimen/detail_text_margin"
-            android:layout_marginEnd="@dimen/detail_text_margin"
-            android:layout_marginBottom="@dimen/detail_text_margin"
-            android:textColor="@color/text_secondary_dark"
-            android:textColorLink="@color/text_link_highlight"
-            android:textSize="@dimen/detail_body_text_size"
- />
-    </android.support.v4.widget.NestedScrollView>
 
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/share_fab"

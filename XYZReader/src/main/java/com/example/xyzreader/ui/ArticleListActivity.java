@@ -145,7 +145,7 @@ public class ArticleListActivity extends AppCompatActivity implements
             mCursor.moveToPosition(position);
             holder.titleView.setText(mCursor.getString(ArticleLoader.Query.TITLE));
 
-            //removed subtitle in this view, don´t think info is important here and it looks cluttered
+            //removed subtitle in this view, don´t think this info is important here and it looks cluttered
 //            holder.subtitleView.setText(
 //                    DateUtils.getRelativeTimeSpanString(
 //                            mCursor.getLong(ArticleLoader.Query.PUBLISHED_DATE),
