@@ -2,4 +2,8 @@
     <!-- detail -->
     <dimen name="detail_container_horizontal_spacing">56dp</dimen>
     <dimen name="detail_container_elevation">2dp</dimen>
+    <dimen name="card_push_margin">392dp</dimen>
+    <dimen name="card_side_margin">112dp</dimen>
+    <dimen name="fab_margin">128dp</dimen> <!-- card_side_margin + detail_text_margin-->
+
 </resources>

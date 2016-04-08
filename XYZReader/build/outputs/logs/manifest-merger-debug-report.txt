@@ -55,8 +55,6 @@ MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudio
 MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
 MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:percent:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\percent\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\src\main\AndroidManifest.xml:14:9-41
 	android:allowBackup
@@ -148,8 +146,6 @@ MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudio
 MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
 MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:percent:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\percent\23.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Johan\AndroidStudioProjects\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75

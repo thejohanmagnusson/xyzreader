@@ -8,16 +8,12 @@
     <dimen name="title_padding">8sp</dimen>
 
     <!-- detail -->
-    <dimen name="detail_container_horizontal_spacing">0dp</dimen>
-    <dimen name="detail_container_elevation">0dp</dimen>
-
     <dimen name="detail_text_margin">16dp</dimen>
     <dimen name="detail_horizontal_text_margin">16dp</dimen>
     <dimen name="detail_title_text_size">24sp</dimen>
     <dimen name="detail_subtitle_text_size">16sp</dimen>
     <dimen name="detail_body_text_size">14sp</dimen>
 
-    <dimen name="detail_card_max_width">300dp</dimen>
     <!-- list -->
     <dimen name="list_margin">4dp</dimen>
 
