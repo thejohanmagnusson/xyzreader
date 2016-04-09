@@ -2,5 +2,5 @@
 <resources>
     <dimen name="toolbar_height">336dp</dimen>
     <dimen name="card_side_margin">224dp</dimen>
-    <dimen name="fab_margin">240dp</dimen> <!-- card_side_margin + detail_text_margin-->
+    <dimen name="fab_margin">24dp</dimen>
 </resources>

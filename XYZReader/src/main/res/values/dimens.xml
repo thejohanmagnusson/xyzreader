@@ -13,6 +13,7 @@
     <dimen name="detail_title_text_size">24sp</dimen>
     <dimen name="detail_subtitle_text_size">16sp</dimen>
     <dimen name="detail_body_text_size">14sp</dimen>
+    <dimen name="fab_margin">8dp</dimen>
 
     <!-- list -->
     <dimen name="list_margin">4dp</dimen>
